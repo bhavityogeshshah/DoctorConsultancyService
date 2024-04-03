@@ -7,20 +7,23 @@ You will need a WAMP server and MySQL database to run this project
 ## Pourpose of this Project
 
 People’s health problems are taking a toll with each  passing day. Patients have to make frequent visits to a doctor for even small complications. Some patients require medical consultancy 24x7. Also it gets difficult for patients with multiple problems to juggle between the appointment of different doctor at the same time. Scheduling the visits becomes difficult. To further intensify the problem, maintaining a record of what different specialist advice/prescribe isn’t an easy job either. Moreover, nowadays there is a clinic at every corner of the street. Most of the patients don’t have a choice but to visit the nearest clinic, even though that may not be the best option, because of factors such as-:
-● Lack of knowledge about other doctors.
-● No information about the waiting time of the doctor.
-● Other doctor may not know the medical of patient.
+
+  ● Lack of knowledge about other doctors. <br>
+  ● No information about the waiting time of the doctor.<br>
+  ● Other doctor may not know the medical of patient.<br>
+
 Furthermore, a doctor too has n number of patients scheduled to visit him throughout the course of the day. Too keep a record of each and every patient manually is too big a job to do. Every doctor should have a record of what prescription/medication was given to the patient before.
 
 Objective:-
 1.	To reduce communication gap between doctor and patient. 
 2.	Patient can communicate with doctor whenever they want
 3.	Online appointment can be done.
-Scope of the Project:-
-•	Can be used by patient to save their time.
-•	Doctors can use this to increase their reach.
+   
+Scope of the Project:-<br>
+•	Can be used by patient to save their time.<br>
+•	Doctors can use this to increase their reach.<br>
 
-## Screen Shots
+## Screen Shots Home Page
 ![image](https://github.com/bhavityogeshshah/DoctorConsultancyService/assets/113150156/14056e98-8827-45b7-aec5-f1b4305fc836)
 
 
